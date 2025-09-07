@@ -66,11 +66,27 @@ Market segments with low penetration presenting opportunities
 Strategic recommendations to enter the market based on data insights
 
 
-# Key Findings
+# ⭐ Top 10 Key Findings
 
+### 1. Total EV Sales across India have reached 2 Million units, with a penetration rate of 3.61% in the overall vehicle market.
 
+### 2. The total vehicle sales projection by 2030 is 54.21 Million units, with Maharashtra, Kerala, and Uttar Pradesh expected to be the top three states in terms of projected EV sales.
 
+### 3. Maharashtra leads in both EV sales and penetration rate, with 13.35M projected EV sales by 2030 and a penetration rate of 6.49%.
 
+### 4. Karnataka shows the highest growth rate (CAGR of 25.28%) among top states, indicating strong future growth potential.
+
+### 5. Bottom 10 States by EV Sales include regions like Sikkim, Andaman & Nicobar, Nagaland, and Arunachal Pradesh, with some having as low as zero sales, highlighting major market gaps.
+
+### 6. Among vehicle makers, OLA Electric dominates with 489K units sold, followed by TVS (273K) and Ather (204K).
+
+### 7. OLA Electric shows an outstanding CAGR of 373.22%, leading the rapid growth in the EV maker segment, followed by TVS at 330.80% CAGR.
+
+### 8. Hero Electric shows a negative CAGR (-58.52%), indicating a significant decline in sales over time.
+
+### 9. 2-Wheelers account for 92.6% of total EV sales, far surpassing 4-Wheelers (7.4%), which points to a strong market preference for smaller EVs.
+
+### 10. Quarterly sales trends reveal steady growth, with the highest EV sales observed in Q4, indicating seasonal factors or strategic pushes by makers during this period.
 
 
 
