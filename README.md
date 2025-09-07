@@ -66,6 +66,8 @@ Market segments with low penetration presenting opportunities
 Strategic recommendations to enter the market based on data insights
 
 
+# Key Findings
+
 
 
 
