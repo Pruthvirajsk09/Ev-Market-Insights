@@ -1,5 +1,5 @@
 # Ev-Market-Insights
-- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTliMWRkYjQtMjI3Zi00MDY5LWI3OWYtOThmMTYwZDAwMGI2IiwidCI6IjgzYTI2YTFiLTkzN2MtNDMyNy1iNzEzLWM5OWUzMjQ4MjU3NCJ9)
+- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzMyNzhhMjctODVhMC00MWEzLWIwZjctZDA1MzE2MDdkOWI0IiwidCI6IjgzYTI2YTFiLTkzN2MtNDMyNy1iNzEzLWM5OWUzMjQ4MjU3NCJ9)
 
 # Project Overview
 This project presents an interactive solution developed for AtliQ Motors, an automotive giant specializing in electric vehicles (EVs) based in the USA. As part of its expansion
